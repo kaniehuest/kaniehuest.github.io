@@ -50,7 +50,8 @@ Si haces click en **login** verás la contraseña.
 ![](/assets/images/images-picoctf-2022/local-auth-6.png)
 
 
-## Flag
+# Flag
+---
 
 `picoCTF{j5_15_7r4n5p4r3n7_05df90c8}`
 

@@ -32,7 +32,8 @@ Si le damos al botón **Read** veremos la flag.
 ![](/assets/images/images-picoctf-2022/forbidden-paths-3.png)
 
 
-## Flag
+# Flag
+---
 
 `picoCTF{7h3_p47h_70_5ucc355_e5fe3d4d}`
 

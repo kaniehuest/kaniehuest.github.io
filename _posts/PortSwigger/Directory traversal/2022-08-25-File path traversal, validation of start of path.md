@@ -9,10 +9,6 @@ tags:
 - post
 - writeups
 ---
-# Lab: File path traversal, validation of start of path
----
-
-
 # Solución
 ---
 

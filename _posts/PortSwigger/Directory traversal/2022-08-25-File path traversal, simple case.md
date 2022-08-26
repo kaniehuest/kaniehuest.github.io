@@ -9,9 +9,6 @@ tags:
 - post
 - writeups
 ---
-# Lab:  File path traversal, simple case
----
-
 # Solución
 ---
 

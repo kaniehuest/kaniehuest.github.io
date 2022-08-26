@@ -98,7 +98,8 @@ Las palabras en mayúsculas nos dan una pista de cómo debemos hacer nuestra bú
 ![](/assets/images/images-picoctf-2021/scavenger-hunt-11.png)
 
 
-## Flag
+# Flag
+---
 
 `picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_f7ce8828}`
 
