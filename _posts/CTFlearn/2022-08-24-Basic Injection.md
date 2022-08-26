@@ -34,3 +34,7 @@ Y podemos ver la flag en el resultado.
 ---
 
 `CTFlearn{th4t_is_why_you_n33d_to_sanitiz3_inputs}`
+
+---
+
+## [Siguiente](/blog/POST-Practice)

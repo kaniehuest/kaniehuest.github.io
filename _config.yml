@@ -19,8 +19,6 @@ favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://i.imgur.com/GBchY.jpeg
-  #/assets/images/gatofondo.jpeg
-  # https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -45,7 +43,8 @@ heroimage: https://i.imgur.com/GBchY.jpeg
 # Name of the Author
 author-name: Lepra
 # # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-oAuBeCrcdUPKRlW2qnTTeVxyXhGyZ3zFA&usqp=CAU
+#https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # # 60 Words About the Author
 # author-about: Me gusta la ciberseguridad :v
 # # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)

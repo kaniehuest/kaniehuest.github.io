@@ -92,3 +92,8 @@ Ya tenemos la tabla y la columna donde está la flag, con esto podemos ejecutar 
 ---
 
 `abctf{uni0n_1s_4_gr34t_c0mm4nd}`
+
+----
+
+## [Anterior](/blog/My-Blog)
+## [Siguiente](/blog/Gobustme)

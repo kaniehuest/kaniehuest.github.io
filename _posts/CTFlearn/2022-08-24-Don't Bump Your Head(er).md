@@ -44,3 +44,8 @@ $ curl http://165.227.106.113/header.php -H 'User-Agent: Sup3rS3cr3tAg3nt' -H 'R
 ---
 
 `flag{did_this_m3ss_with_y0ur_h34d}`
+
+---
+
+## [Anterior](/blog/POST-Practice)
+## [Siguiente](/blog/My-Blog)

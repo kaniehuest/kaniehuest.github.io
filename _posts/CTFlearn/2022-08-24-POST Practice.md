@@ -50,3 +50,8 @@ $ curl -X POST http://165.227.106.113/post.php -d 'username=admin&password=71url
 ---
 
 `flag{p0st_d4t4_4ll_d4y}`
+
+---
+
+## [Anterior](/blog/Basic-Injection)
+## [Siguiente](/blog/Don't-Bump-Your-Head(er))
