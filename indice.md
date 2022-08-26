@@ -3,8 +3,6 @@ title: Indice
 layout: page
 ---
 1. [PicoCTF 2019](#picoctf-2019)
-	1. [PicoCTF 2019](#picoctf-2019)
-	2. [PicoCTF 2019](#picoctf-2019)
 2. [PicoCTF 2021](#picoctf-2021)
 3. [PicoMini by redwpn](#picomini-by-redpwn)
 4. [PicoCTF 2022](#picoctf-2022)
