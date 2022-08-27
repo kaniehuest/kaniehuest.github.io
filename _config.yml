@@ -1,5 +1,14 @@
 # WhatATheme
-markdown: kramdown
+#markdown: kramdown
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # URL of the Site
 url: ''
