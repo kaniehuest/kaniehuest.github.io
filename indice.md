@@ -158,6 +158,7 @@ Link de la página: [https://www.hackthissite.org/](https://www.hackthissite.org
 |Level 4|[Link](/blog/Level-4)|
 |Level 5|[Link](/blog/Level-5)|
 |Level 6|[Link](/blog/Level-6)|
+|Level 7|[Link](/blog/Level-7)|
 
 ### Realistic
 
