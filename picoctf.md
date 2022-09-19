@@ -4,6 +4,15 @@ layout: page
 ---
 Link de la página: [https://picoctf.org/](https://picoctf.org/)
 
+# PicoGym Exclusive
+---
+
+|Nombre del reto|Link|
+|---|---|
+|JAuth|[Link](/blog/JAuth)|
+
+<br/>
+
 # PicoCTF 2019
 ---
 
