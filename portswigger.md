@@ -45,7 +45,7 @@ Link de la página: [https://portswigger.net/web-security](https://portswigger.n
 
 <br/>
 
-# OS command injection (Sin Burpsuite)
+# OS command injection
 ---
 
 |Nombre del reto|Link|

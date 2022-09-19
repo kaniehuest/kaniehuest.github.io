@@ -123,7 +123,7 @@ Link de la página: [https://portswigger.net/web-security](https://portswigger.n
 |File path traversal, validation of start of path|[Link](/blog/File-path-traversal%2C-validation-of-start-of-path)|
 |File path traversal, validation of file extension with null byte bypass|[Link](/blog/File-path-traversal%2C-validation-of-file-extension-with-null-byte-bypass)|
 
-### OS command injection (Sin Burpsuite)
+### OS command injection
 
 |Nombre del reto|Link|
 |--|--|
