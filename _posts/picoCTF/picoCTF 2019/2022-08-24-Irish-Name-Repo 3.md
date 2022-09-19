@@ -31,7 +31,7 @@ En la página principal hacemos click en el botón **Admin Login**.
 
 No tenemos ninguna pista útil, así que miramos el código fuente de la página haciendo click derecho y en **Inspeccionar**.
 
-![](./assets/images/images-picoctf-2019/irish-name-repo-3-2.png)
+![](/assets/images/images-picoctf-2019/irish-name-repo-3-2.png)
 
 Luego seleccionamos la parte de **body** del cógido HTML, hacemos click derecho y seleccionamos **Expandir de manera recurrente** para poder ver todo el código fuente.
 
@@ -63,7 +63,7 @@ Si escribimos `abcdefghijklmnopqrstuvwxyz`, el servidor lo trasforma a `nopqrstu
 
 ![](/assets/images/images-picoctf-2019/irish-name-repo-3-9.png)
 
-Para combrobarlo vamos a [CyberChef][https://gchq.github.io/CyberChef/], y en el campo de **Input** escribimos `or`.
+Para combrobarlo vamos a [CyberChef](https://gchq.github.io/CyberChef/), y en el campo de **Input** escribimos `or`.
 
 ![](/assets/images/images-picoctf-2019/irish-name-repo-3-10.png)
 
