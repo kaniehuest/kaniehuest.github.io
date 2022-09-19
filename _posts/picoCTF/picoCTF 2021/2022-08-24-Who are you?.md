@@ -47,7 +47,7 @@ Nos vamos a la pestaña **Repeater**, hacemos click en **Send** y debajo de **Re
 
 ![](/assets/images/images-picoctf-2021/who-are-you-6.png)
 
-La página nos dice que nuestro navegador debe ser **PicoBrowser**, entonces debemos cambiar el header **User-Agent** para que diga **PicoBrowser**
+La página nos dice que nuestro navegador debe ser **PicoBrowser**, entonces debemos cambiar el header **User-Agent** para que diga **PicoBrowser**.
 
 ![](/assets/images/images-picoctf-2021/who-are-you-7.png)
 
