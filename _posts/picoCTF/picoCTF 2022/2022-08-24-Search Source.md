@@ -29,7 +29,7 @@ Primero debes abrir las herramientos de desarollador.
 
 ![](/assets/images/images-picoctf-2022/search-source-1.png)
 
-Luego te vas a la pestaña **Style Editos** y buscas el archivo **style.css**.
+Luego te vas a la pestaña **Style Editor** y buscas el archivo **style.css**.
 
 ![](/assets/images/images-picoctf-2022/search-source-2.png)
 
