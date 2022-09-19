@@ -35,11 +35,12 @@ Una vez ahí vemos un archivo llamado **477ce.html**.
 
 ![](/assets/images/images-picoctf-2019/where-are-the-robots-4.png)
 
-![](/assets/images/images-picoctf-2019/where-are-the-robots-5.png)
 
 Si vamos al archivo podemos ver la flag.
 
 ![](/assets/images/images-picoctf-2019/where-are-the-robots-6.png)
+
+![](/assets/images/images-picoctf-2019/where-are-the-robots-5.png)
 
 
 # Flag
