@@ -95,6 +95,7 @@ Y resolvemos el lab.
 ![](/assets/images/images-portswigger-sqli/lab6-13.png)
 
 
+---
 
-
-
+## [Anterior](/blog/SQL-injection-UNION-attack%2C-retrieving-data-from-other-tables)
+## [Siguiente](/blog/SQL-injection-attack%2C-querying-the-database-type-and-version-on-Oracle)

@@ -31,7 +31,7 @@ Esto lo hacemos para tener en cuenta la comilla en nuestra inyección `'`. Como 
 
 ![](/assets/images/images-ctflearn/injection-time-3.png)
 
-Primeros enumeramos, agregaremos un **null** y después iremos agregando más hasta que la página nos responda correctamente.
+Primero enumeramos, agregaremos un **null** y después iremos agregando más hasta que la página nos responda correctamente.
 
 ```sql
 1 union select null-- -

@@ -71,3 +71,9 @@ Rellenamos los datos con el nombre y contraseña obtenidos anteriormente.
 Y completamos el reto.
 
 ![](/assets/images/images-portswigger-sqli/lab5-10.png)
+
+
+---
+
+## [Anterior](/blog/SQL-injection-UNION-attack%2C-finding-a-column-containing-text)
+## [Siguiente](/blog/SQL-injection-UNION-attack%2C-retrieving-multiple-values-in-a-single-column)

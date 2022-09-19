@@ -51,7 +51,7 @@ Si agregamos tres `null` la página nos responde correctamente, esto significa q
 
 ![](/assets/images/images-portswigger-sqli/lab4-6.png)
 
-Después de enumerar el númera de columnas hay que enumerar la columna que acepta strings, para eso cambiamos un null por una string entre comillas.
+Después de enumerar las columnas, hay que enumerar la columna que acepta strings, para eso cambiamos un null por una string entre comillas.
 
 ```sql
 ' UNION SELECT 'a',null,null -- -
@@ -78,3 +78,9 @@ Finalmente cambiamos la letra `a` por la cadena que nos señalaba la página al 
 ```
 
 ![](/assets/images/images-portswigger-sqli/lab4-9.png)
+
+
+---
+
+## [Anterior](/blog/SQL-injection-UNION-attack%2C-determining-the-number-of-columns-returned-by-the-query)
+## [Siguiente](/blog/SQL-injection-UNION-attack%2C-retrieving-data-from-other-tables)

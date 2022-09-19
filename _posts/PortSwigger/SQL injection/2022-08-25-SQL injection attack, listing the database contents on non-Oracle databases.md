@@ -105,3 +105,9 @@ Ingresamos las credenciales.
 Y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-sqli/lab9-12.png)
+
+
+---
+
+## [Anterior](/blog/SQL-injection-attack%2C-querying-the-database-type-and-version-on-MySQL-and-Microsoft)
+## [Siguiente](/blog/SQL-injection-attack%2C-listing-the-database-contents-on-Oracle)

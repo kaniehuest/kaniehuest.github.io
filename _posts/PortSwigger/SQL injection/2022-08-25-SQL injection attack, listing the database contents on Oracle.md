@@ -86,3 +86,7 @@ Y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-sqli/lab10-12.png)
 
+
+---
+
+## [Anterior](/blog/SQL-injection-attack%2C-listing-the-database-contents-on-non-Oracle-databases)

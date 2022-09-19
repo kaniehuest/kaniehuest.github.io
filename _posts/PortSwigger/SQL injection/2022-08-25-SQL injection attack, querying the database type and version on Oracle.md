@@ -52,3 +52,8 @@ Por suerte el primer payload funcionó e identificamos que la base de datos es O
 
 ![](/assets/images/images-portswigger-sqli/lab7-7.png)
 
+
+---
+
+## [Anterior](/blog/SQL-injection-UNION-attack%2C-retrieving-multiple-values-in-a-single-column)
+## [Siguiente](/blog/SQL-injection-attack%2C-querying-the-database-type-and-version-on-MySQL-and-Microsoft)

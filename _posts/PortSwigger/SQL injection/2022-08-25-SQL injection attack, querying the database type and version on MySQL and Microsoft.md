@@ -62,3 +62,8 @@ La version de la base de datos se puede ver al final de la página, en mi caso e
 
 ![](/assets/images/images-portswigger-sqli/lab8-7.png)
 
+
+---
+
+## [Anterior](/blog/SQL-injection-attack%2C-querying-the-database-type-and-version-on-Oracle)
+## [Siguiente](/blog/SQL-injection-attack%2C-listing-the-database-contents-on-non-Oracle-databases)
