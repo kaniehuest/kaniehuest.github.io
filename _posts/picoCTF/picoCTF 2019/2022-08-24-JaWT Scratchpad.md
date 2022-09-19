@@ -46,7 +46,7 @@ Si inspeccionamos la página y vamos a la pestaña **Storage**, veremos el valor
 
 ![](/assets/images/images-picoctf-2019/jawt-scratchpad-4.png)
 
-Copiamos el valor del jwt, nos vamos a [jwt.io][https://jwt.io/] y pegamos el valor de nuestro jwt en el campo **Encoded**.
+Copiamos el valor del jwt, nos vamos a [jwt.io](https://jwt.io/) y pegamos el valor de nuestro jwt en el campo **Encoded**.
 
 ![](/assets/images/images-picoctf-2019/jawt-scratchpad-5.png)
 

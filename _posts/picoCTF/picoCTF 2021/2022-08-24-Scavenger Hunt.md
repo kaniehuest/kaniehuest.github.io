@@ -57,7 +57,7 @@ Si vamos al archivo veremos la última parte de la flag `_f7ce8828}`.
 
 ## Respuesta a las preguntas
 
-Saber googlear una pregunta es una habilidad aparte, acá te muestra qué busqueda hice para encontrar las respuesta.
+Saber googlear es una habilidad muy importante, acá te mostraré qué busquedas hice para encontrar las respuestas.
 
 
 **Pregunta:**
@@ -65,7 +65,7 @@ Saber googlear una pregunta es una habilidad aparte, acá te muestra qué busque
 
 **Respuesta:**
 
-Pracamente copiamos y pegamos la pregunta en google y vemos una pregunta en **Stack Overflow**.
+Practicamente copiamos y pegamos la pregunta en google y vemos una pregunta en **Stack Overflow**.
 
 ![](/assets/images/images-picoctf-2021/scavenger-hunt-8.png)
 
@@ -80,7 +80,7 @@ Vemos que en esta pregunta de **Stack Overflow** se hace mención al archivo rob
 
 **Respuesta:**
 
-Podemos ver que la palabra Access está en mayúscula así que deberíamos agregar esa palabra a nuestra búsqueda.
+Podemos ver que la palabra Access está en mayúsculas, así que deberíamos agregar esa palabra a nuestra búsqueda.
 
 ![](/assets/images/images-picoctf-2021/scavenger-hunt-9.png)
 
@@ -93,7 +93,7 @@ Vemos que en 6 occaciones se hace mención al archivo .htaccess.
 
 **Respuesta:**
 
-Las palabras en mayúsculas nos dan una pista de cómo debemos hacer nuestra búsqueda. Si buscamos un archivo de un sitio web y le agregamos estas palabras claves podemos encontrar la respuesta en la primera página.
+Las palabras **Mac** y **Store** están en mayúsculas, esto nos da una pista de cómo debemos hacer nuestra búsqueda. 
 
 ![](/assets/images/images-picoctf-2021/scavenger-hunt-11.png)
 
