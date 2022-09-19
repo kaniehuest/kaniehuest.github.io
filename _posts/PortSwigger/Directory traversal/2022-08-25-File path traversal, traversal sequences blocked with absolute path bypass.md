@@ -52,3 +52,8 @@ Vuelves al navegador y terminas el laboratorio.
 
 ![](/assets/images/images-portswigger-dt/lab2-11.png)
 
+
+---
+
+## [Anterior](/blog/File-path-traversal%2C-simple-case)
+## [Siguiente](/blog/File-path-traversal%2C-traversal-sequences-stripped-non-recursively)

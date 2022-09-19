@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - Information disclosure in error messages.
+title: PortSwigger - Information disclosure in error messages (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto Information disclosure in error messages.
@@ -44,3 +44,7 @@ Y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-id/lab1-8.png)
 
+
+---
+
+## [Siguiente](/blog/Information-disclosure-on-debug-page)

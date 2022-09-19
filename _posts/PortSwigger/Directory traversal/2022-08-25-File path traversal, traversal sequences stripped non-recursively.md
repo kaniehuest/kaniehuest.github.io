@@ -56,3 +56,8 @@ Volvemos a la página y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-dt/lab3-11.png)
 
+
+---
+
+## [Anterior](/blog/File-path-traversal%2C-traversal-sequences-blocked-with-absolute-path-bypass)
+## [Siguiente](/blog/File-path-traversal%2C-traversal-sequences-stripped-with-superfluous-URL-decode)

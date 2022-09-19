@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - Information disclosure in version control history.
+title: PortSwigger - Information disclosure in version control history (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto Information disclosure in version control history.
@@ -82,3 +82,8 @@ Y terminamos el laboratorio.
 
 ![](/assets/images/images-portswigger-id/lab5-13.png)
 
+
+---
+
+## [Anterior]()
+## [Siguiente]()

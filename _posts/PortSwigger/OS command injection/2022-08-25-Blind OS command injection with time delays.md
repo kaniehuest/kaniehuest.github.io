@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - Blind OS command injection with time delays.
+title: PortSwigger - Blind OS command injection with time delays (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto Blind OS command injection with time delays.
@@ -50,3 +50,8 @@ Y resolvemos el laboratorio sin el uso de Burpsuite.
 
 ![](/assets/images/images-portswigger-osci/lab2-9.png)
 
+
+---
+
+## [Anterior](/blog/OS-command-injection%2C-simple-case)
+## [Siguiente](/blog/Blind-OS-command-injection-with-output-redirection)

@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - OS command injection, simple case.
+title: PortSwigger - OS command injection, simple case (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto OS command injection, simple case.
@@ -55,3 +55,7 @@ Y con esto resolvemos el laboratorio sin el uso de Burpsuite.
 ![](/assets/images/images-portswigger-osci/lab1-10.png)
 
 
+
+---
+
+## [Siguiente](/blog/Blind-OS-command-injection-with-time-delays)

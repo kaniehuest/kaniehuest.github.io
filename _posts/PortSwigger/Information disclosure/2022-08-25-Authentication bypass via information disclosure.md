@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - Authentication bypass via information disclosure.
+title: PortSwigger - Authentication bypass via information disclosure (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto Authentication bypass via information disclosure.
@@ -128,3 +128,8 @@ Y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-id/lab4-29.png)
 
+
+---
+
+## [Anterior](/blog/Source-code-disclosure-via-backup-files)
+## [Siguiente](/blog/Information-disclosure-in-version-control-history)

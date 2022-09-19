@@ -51,3 +51,7 @@ Vamos de nuevo a la pestaña **Proxy** y hacemos click en **Intercept is on** pa
 Volvemos a la página y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-dt/lab1-11.png)
+
+---
+
+## [Siguiente](/blog/File-path-traversal%2C-traversal-sequences-blocked-with-absolute-path-bypass)

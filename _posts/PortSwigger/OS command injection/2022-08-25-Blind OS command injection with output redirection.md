@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - Blind OS command injection with output redirection.
+title: PortSwigger - Blind OS command injection with output redirection (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto Blind OS command injection with output redirection.
@@ -61,3 +61,7 @@ Y resolvemos el laboratorio sin necesidad de Burpsuite.
 
 ![](/assets/images/images-portswigger-osci/lab3-12.png)
 
+
+---
+
+## [Siguiente](/blog/Blind-OS-command-injection-with-time-delays)

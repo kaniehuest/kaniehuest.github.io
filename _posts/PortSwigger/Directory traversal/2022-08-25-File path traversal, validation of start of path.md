@@ -49,3 +49,9 @@ Volvemos a la pestaña **Proxy** y hacemos click en el botón **Intercept is on*
 Volvemos al navegador y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-dt/lab5-11.png)
+
+
+---
+
+## [Anterior](/blog/File-path-traversal%2C-traversal-sequences-stripped-with-superfluous-URL-decode)
+## [Siguiente](/blog/File-path-traversal%2C-validation-of-file-extension-with-null-byte-bypass)

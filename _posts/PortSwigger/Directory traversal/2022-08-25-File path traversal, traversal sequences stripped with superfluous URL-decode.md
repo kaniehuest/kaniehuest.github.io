@@ -51,3 +51,8 @@ Volvemos al navegador y resolvemos el laboratorio.
 ![](/assets/images/images-portswigger-dt/lab4-11.png)
 
 
+
+---
+
+## [Anterior](/blog/File-path-traversal%2C-traversal-sequences-stripped-non-recursively)
+## [Siguiente](/blog/File-path-traversal%2C-validation-of-start-of-path)

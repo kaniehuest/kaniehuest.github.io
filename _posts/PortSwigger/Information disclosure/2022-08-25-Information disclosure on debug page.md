@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - Information disclosure on debug page.
+title: PortSwigger - Information disclosure on debug page (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto Information disclosure on debug page.
@@ -43,3 +43,8 @@ Pegamos el valor del **SECRET_KEY** y hacemos click en el botón **OK**.
 Y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-id/lab2-8.png)
+
+---
+
+## [Anterior](/blog/Information-disclosure-in-error-messages)
+## [Siguiente](/blog/Source-code-disclosure-via-backup-files)

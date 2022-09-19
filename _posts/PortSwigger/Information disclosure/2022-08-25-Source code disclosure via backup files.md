@@ -1,5 +1,5 @@
 ---
-title: PortSwigger - Source code disclosure via backup files.
+title: PortSwigger - Source code disclosure via backup files (sin Burpsuite).
 layout: post
 post-image: /assets/images/gatohacker4.jpg 
 description: La resolución del reto Source code disclosure via backup files.
@@ -48,3 +48,8 @@ Y resolvemos el laboratorio.
 
 ![](/assets/images/images-portswigger-id/lab3-9.png)
 
+
+---
+
+## [Anterior](/blog/Information-disclosure-on-debug-page)
+## [Siguiente](/blog/Authentication-bypass-via-information-disclosure)
