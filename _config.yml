@@ -1,6 +1,6 @@
 title: Writeups Web
 author: Lepra
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://kaniehuest.github.io/ # root address of the site
 description: Una colección de mis writeups sobre CTFs, wargames o laboratorios de la categoría web.
 
 permalink: /:slug
