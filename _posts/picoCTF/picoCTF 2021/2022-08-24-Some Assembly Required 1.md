@@ -35,5 +35,5 @@ Si vamos al final del archivo veremos la flag.
 
 ---
 
-## [Anterior](/Scavenger-Hunt)
-## [Siguiente](/Who-are-you)
+## [Anterior](/scavenger-hunt)
+## [Siguiente](/who-are-you)

@@ -102,4 +102,4 @@ Finalmente recargamos la página y podemos ver la flag.
 
 ---
 
-## [Anterior](/Irish-Name-Repo-3)
+## [Anterior](/irish-name-repo-3)

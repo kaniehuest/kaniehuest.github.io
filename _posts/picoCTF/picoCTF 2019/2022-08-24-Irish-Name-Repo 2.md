@@ -45,5 +45,5 @@ Y podemos ver la flag.
 
 ---
 
-## [Anterior](/Irish-Name-Repo-1)
-## [Siguiente](/Irish-Name-Repo-3)
+## [Anterior](/irish-name-repo-1)
+## [Siguiente](/irish-name-repo-3)

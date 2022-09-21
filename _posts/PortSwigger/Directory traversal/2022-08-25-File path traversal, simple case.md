@@ -54,4 +54,4 @@ Volvemos a la página y resolvemos el laboratorio.
 
 ---
 
-## [Siguiente](/File-path-traversal%2C-traversal-sequences-blocked-with-absolute-path-bypass)
+## [Siguiente](/file-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass)

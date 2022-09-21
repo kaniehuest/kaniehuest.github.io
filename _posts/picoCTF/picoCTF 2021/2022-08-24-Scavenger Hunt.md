@@ -105,5 +105,5 @@ Las palabras **Mac** y **Store** están en mayúsculas, esto nos da una pista de
 
 ---
 
-## [Anterior](/Cookies)
-## [Siguiente](/Some-Assembly-Required-1)
+## [Anterior](/cookies)
+## [Siguiente](/some-assembly-required-1)

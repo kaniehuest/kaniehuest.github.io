@@ -47,4 +47,4 @@ Y resolvemos el laboratorio.
 
 ---
 
-## [Siguiente](/Information-disclosure-on-debug-page)
+## [Siguiente](/information-disclosure-on-debug-page)

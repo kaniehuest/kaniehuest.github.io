@@ -75,5 +75,5 @@ Y completamos el reto.
 
 ---
 
-## [Anterior](/SQL-injection-UNION-attack%2C-finding-a-column-containing-text)
-## [Siguiente](/SQL-injection-UNION-attack%2C-retrieving-multiple-values-in-a-single-column)
+## [Anterior](/sql-injection-union-attack-finding-a-column-containing-text)
+## [Siguiente](/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column)

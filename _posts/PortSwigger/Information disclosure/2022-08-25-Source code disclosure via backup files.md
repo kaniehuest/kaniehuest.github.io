@@ -51,5 +51,5 @@ Y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/Information-disclosure-on-debug-page)
-## [Siguiente](/Authentication-bypass-via-information-disclosure)
+## [Anterior](/information-disclosure-on-debug-page)
+## [Siguiente](/authentication-bypass-via-information-disclosure)

@@ -50,5 +50,5 @@ Si agregamos 3 `null` el laboratorio se resuelve porque existen 3 columnas.
 
 ---
 
-## [Anterior](/SQL-injection-vulnerability-allowing-login-bypass)
-## [Siguiente](/SQL-injection-UNION-attack%2C-finding-a-column-containing-text)
+## [Anterior](/sql-injection-vulnerability-allowing-login-bypass)
+## [Siguiente](/sql-injection-union-attack-finding-a-column-containing-text)

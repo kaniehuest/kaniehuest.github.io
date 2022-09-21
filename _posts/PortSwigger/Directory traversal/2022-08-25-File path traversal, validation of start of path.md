@@ -53,5 +53,5 @@ Volvemos al navegador y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/File-path-traversal%2C-traversal-sequences-stripped-with-superfluous-URL-decode)
-## [Siguiente](/File-path-traversal%2C-validation-of-file-extension-with-null-byte-bypass)
+## [Anterior](/file-path-traversal-traversal-sequences-stripped-with-superfluous-url-decode)
+## [Siguiente](/file-path-traversal-validation-of-file-extension-with-null-byte-bypass)

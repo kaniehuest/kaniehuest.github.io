@@ -47,4 +47,4 @@ Y podemos visualizar la flag.
 ---
 
 ## [Anterior](/client-side-again)
-## [Siguiente](/Irish-Name-Repo-2)
+## [Siguiente](/irish-name-repo-2)

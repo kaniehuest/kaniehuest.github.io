@@ -95,5 +95,5 @@ Ya tenemos la tabla y la columna donde está la flag, con esto podemos ejecutar 
 
 ----
 
-## [Anterior](/My-Blog)
-## [Siguiente](/Gobustme)
+## [Anterior](/my-blog)
+## [Siguiente](/gobustme)

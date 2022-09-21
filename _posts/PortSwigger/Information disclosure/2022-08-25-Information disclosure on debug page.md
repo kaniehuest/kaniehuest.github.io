@@ -46,5 +46,5 @@ Y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/Information-disclosure-in-error-messages)
-## [Siguiente](/Source-code-disclosure-via-backup-files)
+## [Anterior](/information-disclosure-in-error-messages)
+## [Siguiente](/source-code-disclosure-via-backup-files)

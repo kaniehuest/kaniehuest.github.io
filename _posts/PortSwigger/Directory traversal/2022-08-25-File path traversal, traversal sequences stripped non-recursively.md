@@ -59,5 +59,5 @@ Volvemos a la página y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/File-path-traversal%2C-traversal-sequences-blocked-with-absolute-path-bypass)
-## [Siguiente](/File-path-traversal%2C-traversal-sequences-stripped-with-superfluous-URL-decode)
+## [Anterior](/file-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass)
+## [Siguiente](/file-path-traversal-traversal-sequences-stripped-with-superfluous-url-decode)

@@ -89,4 +89,5 @@ Y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/SQL-injection-attack%2C-listing-the-database-contents-on-non-Oracle-databases)
+## [Anterior](/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases)
+## [Siguiente](/blind-sql-injection-with-conditional-responses)

@@ -55,5 +55,5 @@ Por suerte el primer payload funcionó e identificamos que la base de datos es O
 
 ---
 
-## [Anterior](/SQL-injection-UNION-attack%2C-retrieving-multiple-values-in-a-single-column)
-## [Siguiente](/SQL-injection-attack%2C-querying-the-database-type-and-version-on-MySQL-and-Microsoft)
+## [Anterior](/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column)
+## [Siguiente](/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft)

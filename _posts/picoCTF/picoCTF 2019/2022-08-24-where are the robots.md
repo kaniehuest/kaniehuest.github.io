@@ -49,5 +49,5 @@ Si vamos al archivo podemos ver la flag.
 
 ---
 
-## [Anterior](/Insp3ct0r)
+## [Anterior](/insp3ct0r)
 ## [Siguiente](/logon)

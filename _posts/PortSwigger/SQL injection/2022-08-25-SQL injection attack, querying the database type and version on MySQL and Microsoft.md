@@ -65,5 +65,5 @@ La version de la base de datos se puede ver al final de la página, en mi caso e
 
 ---
 
-## [Anterior](/SQL-injection-attack%2C-querying-the-database-type-and-version-on-Oracle)
-## [Siguiente](/SQL-injection-attack%2C-listing-the-database-contents-on-non-Oracle-databases)
+## [Anterior](/sql-injection-attack-querying-the-database-type-and-version-on-oracle)
+## [Siguiente](/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases)

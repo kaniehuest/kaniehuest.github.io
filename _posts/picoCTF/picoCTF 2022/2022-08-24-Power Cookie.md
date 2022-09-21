@@ -52,5 +52,5 @@ Recargamos la página y podemos ver la flag.
 
 ---
 
-## [Anterior](/Forbidden-Paths)
-## [Siguiente](/Roboto-Sans)
+## [Anterior](/forbidden-paths)
+## [Siguiente](/roboto-sans)

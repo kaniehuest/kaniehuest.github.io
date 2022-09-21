@@ -37,4 +37,4 @@ Y podemos ver la flag en el resultado.
 
 ---
 
-## [Siguiente](/POST-Practice)
+## [Siguiente](/post-practice)

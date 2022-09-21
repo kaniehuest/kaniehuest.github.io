@@ -19,6 +19,7 @@ Link de la página: [https://portswigger.net/web-security](https://portswigger.n
 |SQL injection attack, querying the database type and version on MySQL and Microsoft|[Link](/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft)|
 |SQL injection attack, listing the database contents on non-Oracle databases|[Link](/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases)|
 |SQL injection attack, listing the database contents on Oracle|[Link](/sql-injection-attack-listing-the-database-contents-on-oracle)|
+|Blind SQL injection with conditional responses|[Link](/blind-sql-injection-with-conditional-responses)|
 
 <br>
 

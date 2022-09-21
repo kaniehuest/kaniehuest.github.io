@@ -57,5 +57,5 @@ Si haces click en **login** verás la contraseña.
 
 ---
 
-## [Anterior](/Inspect-HTML)
-## [Siguiente](/Search-Source)
+## [Anterior](/inspect-html)
+## [Siguiente](/search-source)

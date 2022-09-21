@@ -41,5 +41,5 @@ Y podrás observar la flag al final de la página.
 
 ---
 
-## [Anterior](/Includes)
-## [Siguiente](/Local-Authority)
+## [Anterior](/includes)
+## [Siguiente](/local-authority)

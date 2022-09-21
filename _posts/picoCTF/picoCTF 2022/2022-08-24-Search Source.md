@@ -45,5 +45,5 @@ Apretas `CTRL + f` y escribes `pico` para buscar la palabra pico por todo el arc
 
 ---
 
-## [Anterior](/Local-Authority)
-## [Siguiente](/Forbidden-Paths)
+## [Anterior](/local-authority)
+## [Siguiente](/forbidden-paths)

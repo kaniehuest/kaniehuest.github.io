@@ -131,5 +131,5 @@ Y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/Source-code-disclosure-via-backup-files)
-## [Siguiente](/Information-disclosure-in-version-control-history)
+## [Anterior](/source-code-disclosure-via-backup-files)
+## [Siguiente](/information-disclosure-in-version-control-history)

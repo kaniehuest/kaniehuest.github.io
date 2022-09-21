@@ -39,5 +39,5 @@ Si le damos al botón **Read** veremos la flag.
 
 ---
 
-## [Anterior](/Search-Source)
-## [Siguiente](/Power-Cookie)
+## [Anterior](/search-source)
+## [Siguiente](/power-cookie)

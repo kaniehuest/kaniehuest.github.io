@@ -53,4 +53,4 @@ Volvemos al navegador y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/File-path-traversal%2C-validation-of-start-of-path)
+## [Anterior](/file-path-traversal-validation-of-start-of-path)

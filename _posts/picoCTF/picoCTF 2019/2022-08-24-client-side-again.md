@@ -53,4 +53,4 @@ Y podemos notar un array con la flag dividida en distintas partes.
 ---
 
 ## [Anterior](/picobrowser)
-## [Siguiente](/Irish-Name-Repo-1)
+## [Siguiente](/irish-name-repo-1)

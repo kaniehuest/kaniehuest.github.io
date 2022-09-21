@@ -85,5 +85,4 @@ Y terminamos el laboratorio.
 
 ---
 
-## [Anterior]()
-## [Siguiente]()
+## [Anterior](/authentication-bypass-via-information-disclosure)

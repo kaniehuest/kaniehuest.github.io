@@ -53,5 +53,5 @@ $ curl -X POST http://165.227.106.113/post.php -d 'username=admin&password=71url
 
 ---
 
-## [Anterior](/Basic-Injection)
-## [Siguiente](/Don't-Bump-Your-Head(er))
+## [Anterior](/basic-injection)
+## [Siguiente](/don-t-bump-your-head-er)

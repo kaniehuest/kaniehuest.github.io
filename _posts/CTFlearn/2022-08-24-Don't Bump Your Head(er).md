@@ -47,5 +47,5 @@ $ curl http://165.227.106.113/header.php -H 'User-Agent: Sup3rS3cr3tAg3nt' -H 'R
 
 ---
 
-## [Anterior](/POST-Practice)
-## [Siguiente](/My-Blog)
+## [Anterior](/post-practice)
+## [Siguiente](/my-blog)

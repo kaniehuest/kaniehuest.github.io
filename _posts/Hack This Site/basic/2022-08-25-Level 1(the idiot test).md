@@ -45,4 +45,4 @@ Y resolvemos el reto.
 
 ---
 
-## [Siguiente](/Level-2)
+## [Siguiente](/level-2)

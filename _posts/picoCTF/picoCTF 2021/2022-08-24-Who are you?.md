@@ -99,4 +99,4 @@ Para copiarla simplemente nos vamos a la pestaña **Raw** que está a la izquier
 
 ---
 
-## [Anterior](/Some-Assembly-Required-1)
+## [Anterior](/some-assembly-required-1)

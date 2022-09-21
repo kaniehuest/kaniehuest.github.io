@@ -51,5 +51,5 @@ Y podemos ver la flag.
 
 ---
 
-## [Anterior](/Secrets)
-## [Siguiente](/SQLiLite)
+## [Anterior](/secrets)
+## [Siguiente](/sqlilite)

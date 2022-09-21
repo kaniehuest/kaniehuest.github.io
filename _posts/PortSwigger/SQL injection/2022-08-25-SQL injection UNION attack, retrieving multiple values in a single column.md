@@ -97,5 +97,5 @@ Y resolvemos el lab.
 
 ---
 
-## [Anterior](/SQL-injection-UNION-attack%2C-retrieving-data-from-other-tables)
-## [Siguiente](/SQL-injection-attack%2C-querying-the-database-type-and-version-on-Oracle)
+## [Anterior](/sql-injection-union-attack-retrieving-data-from-other-tables)
+## [Siguiente](/sql-injection-attack-querying-the-database-type-and-version-on-oracle)

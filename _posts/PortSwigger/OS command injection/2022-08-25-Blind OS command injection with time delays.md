@@ -53,5 +53,5 @@ Y resolvemos el laboratorio sin el uso de Burpsuite.
 
 ---
 
-## [Anterior](/OS-command-injection%2C-simple-case)
-## [Siguiente](/Blind-OS-command-injection-with-output-redirection)
+## [Anterior](/os-command-injection-simple-case)
+## [Siguiente](/blind-os-command-injection-with-output-redirection)

@@ -97,5 +97,5 @@ Y podemos iniciar sesión.
 
 ---
 
-## [Anterior](/Irish-Name-Repo-2)
-## [Siguiente](/JaWT-Scratchpad)
+## [Anterior](/irish-name-repo-2)
+## [Siguiente](/jawt-scratchpad)

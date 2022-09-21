@@ -54,5 +54,5 @@ Volvemos al navegador y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/File-path-traversal%2C-traversal-sequences-stripped-non-recursively)
-## [Siguiente](/File-path-traversal%2C-validation-of-start-of-path)
+## [Anterior](/file-path-traversal-traversal-sequences-stripped-non-recursively)
+## [Siguiente](/file-path-traversal-validation-of-start-of-path)

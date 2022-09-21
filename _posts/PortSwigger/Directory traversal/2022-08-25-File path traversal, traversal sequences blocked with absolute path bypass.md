@@ -55,5 +55,5 @@ Vuelves al navegador y terminas el laboratorio.
 
 ---
 
-## [Anterior](/File-path-traversal%2C-simple-case)
-## [Siguiente](/File-path-traversal%2C-traversal-sequences-stripped-non-recursively)
+## [Anterior](/file-path-traversal-simple-case)
+## [Siguiente](/file-path-traversal-traversal-sequences-stripped-non-recursively)

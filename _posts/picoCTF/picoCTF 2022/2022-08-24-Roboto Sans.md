@@ -43,5 +43,5 @@ Si vamos a ese archivo en la página web podemos ver la flag.
 
 ---
 
-## [Anterior](/Power-Cookie)
-## [Siguiente](/Secrets)
+## [Anterior](/power-cookie)
+## [Siguiente](/secrets)

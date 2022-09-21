@@ -3,22 +3,23 @@ layout: home
 ---
 
 1. [PicoCTF](#picoctf)
-    2. [PicoCTF 2019](#picoctf-2019)
-    3. [PicoCTF 2021](#picoctf-2021)
-    4. [PicoMini by redwpn](#picomini-by-redpwn)
-    5. [PicoCTF 2022](#picoctf-2022)
-6. [CTFlearn](#ctflearn)
-7. [PortSwigger](#portswigger)
-    8. [PortSwigger - SQL injection](#sql-injection)
-    9. [PortSwigger - Authentication vulnerabilities](#authentication-vulnerabilities)
-    10. [PortSwigger - Directory traversal](#directory-traversal)
-    11. [PortSwigger - OS command injection (Sin Burpsuite)](#os-command-injection-sin-burpsuite)
-    12. [PortSwigger - Information disclosure (Sin Burpsuite)](#information-disclosure-sin-burpsuite)
-13. [HackThisSite](#hack-this-site)
-    14. [HackThisSite - Basic](#basic)
-    15. [HackThisSite - Realistic](#realistic)
-16. [OverTheWire](#overthewire)
-    17. [OverTheWire - Natas (Sin navegador)](#natas-sin-navegador)
+    2. [PicoGym](#picogym-exclusive)
+    3. [PicoCTF 2019](#picoctf-2019)
+    4. [PicoCTF 2021](#picoctf-2021)
+    5. [PicoMini by redwpn](#picomini-by-redpwn)
+    6. [PicoCTF 2022](#picoctf-2022)
+7. [CTFlearn](#ctflearn)
+8. [PortSwigger](#portswigger)
+    9. [PortSwigger - SQL injection](#sql-injection)
+    10. [PortSwigger - Authentication vulnerabilities](#authentication-vulnerabilities)
+    11. [PortSwigger - Directory traversal](#directory-traversal)
+    12. [PortSwigger - OS command injection](#os-command-injection)
+    13. [PortSwigger - Information disclosure (Sin Burpsuite)](#information-disclosure-sin-burpsuite)
+14. [HackThisSite](#hack-this-site)
+    15. [HackThisSite - Basic](#basic)
+    16. [HackThisSite - Realistic](#realistic)
+17. [OverTheWire](#overthewire)
+    18. [OverTheWire - Natas (Sin navegador)](#natas-sin-navegador)
 
 # PicoCTF
 --- 
@@ -117,6 +118,7 @@ Link de la página: [https://portswigger.net/web-security](https://portswigger.n
 |SQL injection attack, querying the database type and version on MySQL and Microsoft|[Link](/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft)|
 |SQL injection attack, listing the database contents on non-Oracle databases|[Link](/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases)|
 |SQL injection attack, listing the database contents on Oracle|[Link](/sql-injection-attack-listing-the-database-contents-on-oracle)|
+|Blind SQL injection with conditional responses|[Link](/blind-sql-injection-with-conditional-responses)|
 
 ### Authentication vulnerabilities
 

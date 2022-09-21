@@ -82,5 +82,5 @@ Finalmente cambiamos la letra `a` por la cadena que nos señalaba la página al 
 
 ---
 
-## [Anterior](/SQL-injection-UNION-attack%2C-determining-the-number-of-columns-returned-by-the-query)
-## [Siguiente](/SQL-injection-UNION-attack%2C-retrieving-data-from-other-tables)
+## [Anterior](/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query)
+## [Siguiente](/sql-injection-union-attack-retrieving-data-from-other-tables)

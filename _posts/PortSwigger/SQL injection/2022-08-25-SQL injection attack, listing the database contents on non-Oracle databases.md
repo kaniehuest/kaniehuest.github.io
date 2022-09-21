@@ -109,5 +109,5 @@ Y resolvemos el laboratorio.
 
 ---
 
-## [Anterior](/SQL-injection-attack%2C-querying-the-database-type-and-version-on-MySQL-and-Microsoft)
-## [Siguiente](/SQL-injection-attack%2C-listing-the-database-contents-on-Oracle)
+## [Anterior](/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft)
+## [Siguiente](/sql-injection-attack-listing-the-database-contents-on-oracle)

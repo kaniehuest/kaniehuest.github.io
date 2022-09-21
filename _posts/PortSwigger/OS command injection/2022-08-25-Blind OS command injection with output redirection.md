@@ -64,4 +64,4 @@ Y resolvemos el laboratorio sin necesidad de Burpsuite.
 
 ---
 
-## [Siguiente](/Blind-OS-command-injection-with-time-delays)
+## [Anterior](/blind-os-command-injection-with-time-delays)
