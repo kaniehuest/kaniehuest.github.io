@@ -120,6 +120,7 @@ Link de la página: [https://portswigger.net/web-security](https://portswigger.n
 |SQL injection attack, listing the database contents on Oracle|[Link](/sql-injection-attack-listing-the-database-contents-on-oracle)|
 |Blind SQL injection with conditional responses|[Link](/blind-sql-injection-with-conditional-responses)|
 |Blind SQL injection with time delays|[Link](/blind-sql-injection-with-time-delays)|
+|Blind SQL injection with out-of-band interaction|[Link](/blind-sql-injection-with-out-of-band-interaction)|
 
 ### Authentication vulnerabilities
 
