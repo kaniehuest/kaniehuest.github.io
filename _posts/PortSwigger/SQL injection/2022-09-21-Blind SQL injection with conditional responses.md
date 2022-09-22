@@ -230,3 +230,4 @@ Y resolvemos el laboratorio.
 ---
 
 ## [Anterior](/sql-injection-attack-listing-the-database-contents-on-oracle)
+## [Siguiente](/blind-sql-injection-with-time-delays)
