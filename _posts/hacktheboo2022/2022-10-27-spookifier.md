@@ -1,5 +1,5 @@
 ---
-title: Hack The Boo 2022 - Evaluation Deck
+title: Hack The Boo 2022 - Spookifier
 layout: post
 description: La resolución del reto "Spookifier" del CTF "Hack The Boo 2022" organizado por Hack The Box.
 tags:
