@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Sobre mí!
 
-Actually, it has the same layout of a post...
+hola...
