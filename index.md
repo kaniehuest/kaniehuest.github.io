@@ -185,7 +185,7 @@ Link de la página: [https://www.hackthissite.org/](https://www.hackthissite.org
 |Nombre del reto|Link|
 |--|--|
 |Chicago American \*\*\*\* Party (Level2)|[Link](/chicago-american-nz-party)|
-|Uncle Arnold's Local Band Review|[Link](/uncle-arnold-s-local-band-review)|
+|Uncle Arnold's Local Band Review|[Link](/uncle-arnolds-localband-review)|
 
 <br/>
 
