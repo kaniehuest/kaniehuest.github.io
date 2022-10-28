@@ -104,7 +104,7 @@ El comando que construimos es `10 + 10` y el servidor nos responde con un `20`.
 
 ![](/images/images-hacktheboo2022/ed-26.png)
 
-Buscando formas de injectar comando en una función `exec()` me encuentra con esta página de HackTricks [Link de la página](https://book.hacktricks.xyz/generic-methodologies-and-resources/python/bypass-python-sandboxes#eval-ing-python-code)
+Buscando formas de inyectar comandon en una función `exec()` nos encontramos con esta página de HackTricks [Link de la página](https://book.hacktricks.xyz/generic-methodologies-and-resources/python/bypass-python-sandboxes#eval-ing-python-code)
 
 Ingresamos el primer payload para ejecutar comandos.
 
