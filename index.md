@@ -223,3 +223,4 @@ Los retos se almacenan en la página oficial de HackTheBox: [https://www.hackthe
 |Evaluation Deck|[Link](/evaluation-deck)|
 |Spookifier|[Link](/spookifier)|
 |Horror Feeds|[Link](/horror-feeds)|
+|Juggling Facts|[Link](/juggling-facts)|
