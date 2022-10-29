@@ -2,6 +2,8 @@
 layout: home
 ---
 
+## Índice general
+
 1. [PicoCTF](#picoctf)
     2. [PicoGym](#picogym-exclusive)
     3. [PicoCTF 2019](#picoctf-2019)
@@ -10,18 +12,19 @@ layout: home
     6. [PicoCTF 2022](#picoctf-2022)
 7. [CTFlearn](#ctflearn)
 8. [PortSwigger](#portswigger)
-    9. [PortSwigger - SQL injection](#sql-injection)
-    10. [PortSwigger - Authentication vulnerabilities](#authentication-vulnerabilities)
-    11. [PortSwigger - Directory traversal](#directory-traversal)
-    12. [PortSwigger - OS command injection](#os-command-injection)
-    13. [PortSwigger - Information disclosure (Sin Burpsuite)](#information-disclosure-sin-burpsuite)
+    9. [SQL injection](#sql-injection)
+    10. [Authentication vulnerabilities](#authentication-vulnerabilities)
+    11. [Directory traversal](#directory-traversal)
+    12. [OS command injection](#os-command-injection)
+    13. [Information disclosure (Sin Burpsuite)](#information-disclosure-sin-burpsuite)
 14. [HackThisSite](#hack-this-site)
-    15. [HackThisSite - Basic](#basic)
-    16. [HackThisSite - Realistic](#realistic)
+    15. [Basic](#basic)
+    16. [Realistic](#realistic)
 17. [OverTheWire](#overthewire)
-    18. [OverTheWire - Natas (Sin navegador)](#natas-sin-navegador)
+    18. [Natas (Sin navegador)](#natas-sin-navegador)
+19. [HackTheBoo 2022](#hacktheboo-2022)
 
-# PicoCTF
+## PicoCTF
 --- 
 
 Link de la página: [https://picoctf.org/](https://picoctf.org/)
@@ -82,7 +85,7 @@ Link de la página: [https://picoctf.org/](https://picoctf.org/)
 
 <br/>
 
-# CTFlearn
+## CTFlearn
 --- 
 
 Link de la página: [https://ctflearn.com/](https://ctflearn.com/)
@@ -99,7 +102,7 @@ Link de la página: [https://ctflearn.com/](https://ctflearn.com/)
 
 <br/>
 
-# PortSwigger
+## PortSwigger
 --- 
 
 Link de la página: [https://portswigger.net/web-security](https://portswigger.net/web-security)
@@ -159,7 +162,7 @@ Link de la página: [https://portswigger.net/web-security](https://portswigger.n
 
 <br/>
 
-# Hack This Site
+## Hack This Site
 --- 
 
 Link de la página: [https://www.hackthissite.org/](https://www.hackthissite.org/)
@@ -189,7 +192,7 @@ Link de la página: [https://www.hackthissite.org/](https://www.hackthissite.org
 
 <br/>
 
-# OverTheWire
+## OverTheWire
 ---
 
 Link de la página: [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
@@ -209,3 +212,14 @@ Link de la página: [https://overthewire.org/wargames/](https://overthewire.org/
 |Natas 7 -> 8|[Link](/level-7-8)|
 |Natas 8 -> 9|[Link](/level-8-9)|
 |Natas 9 -> 10|[Link](/level-9-10)|
+
+## HackTheBoo 2022
+--- 
+
+Los retos se almacenan en la página oficial de HackTheBox: [https://www.hackthebox.com/](https://www.hackthebox.com/)
+
+|Nombre del reto|Link|
+|---|---|
+|Evaluation Deck|[Link](/evaluation-deck)|
+|Spookifier|[Link](/spookifier)|
+|Horror Feeds|[Link](/horror-feeds)|

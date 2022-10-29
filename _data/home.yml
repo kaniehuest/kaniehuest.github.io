@@ -5,9 +5,6 @@ navbar_entries:
   - title: About
     url: about
 
-  - title: Blog
-    url: blog
-
   - title: PicoCTF
     url: picoctf
 
@@ -23,32 +20,33 @@ navbar_entries:
   - title: OverTheWire
     url: overthewire
 
+  - title: Otros CTFs
+    url: otrosctfs
+
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: PicoCTF
+    url: picoctf
+    desc: Hazle click a esta carta para ir al índice. 
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: CTFLearn
+    url: ctflearn
+    desc: Hazle click a esta carta para ir al índice. 
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: PortSwigger
+    url: portswigger
+    desc: Hazle click a esta carta para ir al índice. 
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: HackThisSite
+    url: hackthissite
+    desc: Hazle click a esta carta para ir al índice. 
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: OverTheWire
+    url: overthewire
+    desc: Hazle click a esta carta para ir al índice. 
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: HackTheBoo2022
+    url: otrosctfs#hacktheboo-2022
+    desc: Hazle click a esta carta para ir al índice. 
 
 old_project_entries:
   - title: Soopr
