@@ -224,3 +224,4 @@ Los retos se almacenan en la página oficial de HackTheBox: [https://www.hackthe
 |Spookifier|[Link](/spookifier)|
 |Horror Feeds|[Link](/horror-feeds)|
 |Juggling Facts|[Link](/juggling-facts)|
+|Cursed Secret Party|[Link](/cursed-secret-party)|
