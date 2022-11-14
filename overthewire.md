@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indice de OverTheWire
+title: OverTheWire
 ---
 Link de la página: [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indice de PicoCTF
+title: PicoCTF
 ---
 Link de la página: [https://picoctf.org/](https://picoctf.org/)
 

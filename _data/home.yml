@@ -5,24 +5,6 @@ navbar_entries:
   - title: About
     url: about
 
-  - title: PicoCTF
-    url: picoctf
-
-  - title: CTFLearn
-    url: ctflearn
-
-  - title: PortSwigger
-    url: portswigger
-
-  - title: HackThisSitie
-    url: hackthissite
-
-  - title: OverTheWire
-    url: overthewire
-
-  - title: Otros CTFs
-    url: otrosctfs
-
 project_entries:
   - title: PicoCTF
     url: picoctf
@@ -45,7 +27,7 @@ project_entries:
     desc: Hazle click a esta carta para ir al índice. 
 
   - title: HackTheBoo2022
-    url: otrosctfs#hacktheboo-2022
+    url: hacktheboo2022
     desc: Hazle click a esta carta para ir al índice. 
 
 old_project_entries:

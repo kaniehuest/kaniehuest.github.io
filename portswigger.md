@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indice de PortSwigger
+title: PortSwigger
 ---
 Link de la página: [https://portswigger.net/web-security](https://portswigger.net/web-security)
 

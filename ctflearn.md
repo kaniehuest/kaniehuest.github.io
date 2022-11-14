@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indice de CTFLearn
+title: CTFLearn
 ---
 Link de la página: [https://ctflearn.com/](https://ctflearn.com/)
 
