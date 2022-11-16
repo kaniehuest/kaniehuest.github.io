@@ -212,6 +212,7 @@ Link de la página: [https://overthewire.org/wargames/](https://overthewire.org/
 |Natas 7 -> 8|[Link](/level-7-8)|
 |Natas 8 -> 9|[Link](/level-8-9)|
 |Natas 9 -> 10|[Link](/level-9-10)|
+|Natas 10 -> 11|[Link](/level-10-11)|
 
 ## HackTheBoo 2022
 --- 
