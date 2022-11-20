@@ -23,6 +23,7 @@ layout: home
 17. [OverTheWire](#overthewire)
     18. [Natas (Sin navegador)](#natas-sin-navegador)
 19. [HackTheBoo 2022](#hacktheboo-2022)
+20. [Digital Overdose 2022](#digital-overdose-2022)
 
 ## PicoCTF
 --- 
@@ -233,3 +234,14 @@ Los retos se almacenan en la página oficial de HackTheBox: [https://www.hackthe
 |Horror Feeds|[Link](/horror-feeds)|
 |Juggling Facts|[Link](/juggling-facts)|
 |Cursed Secret Party|[Link](/cursed-secret-party)|
+
+<br/>
+
+## Digital Overdose 2022
+---
+
+Link: [https://ctftime.org/event/1760](https://ctftime.org/event/1760)
+
+|Nombre del reto|Link|
+|---|---|
+|Shopping|[Link](/shopping)|

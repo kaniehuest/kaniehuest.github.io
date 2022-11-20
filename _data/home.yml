@@ -18,7 +18,7 @@ project_entries:
     url: portswigger
     desc: Hazle click a esta carta para ir al índice. 
 
-  - title: HackThisSite
+  - title: Hack This Site
     url: hackthissite
     desc: Hazle click a esta carta para ir al índice. 
 
@@ -26,8 +26,12 @@ project_entries:
     url: overthewire
     desc: Hazle click a esta carta para ir al índice. 
 
-  - title: HackTheBoo2022
+  - title: Hack The Boo 2022
     url: hacktheboo2022
+    desc: Hazle click a esta carta para ir al índice. 
+
+  - title: Digital Overdose 2022
+    url: digitaloverdose2022
     desc: Hazle click a esta carta para ir al índice. 
 
 old_project_entries:
