@@ -34,6 +34,10 @@ project_entries:
     url: digitaloverdose2022
     desc: Hazle click a esta carta para ir al índice. 
 
+  - title: Máquinas de la comunidad
+    url: comunidad
+    desc: Hazle click a esta carta para ir al índice. 
+
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
